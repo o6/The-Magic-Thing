@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'The Magic Thing' target in the 'The Magic Thing' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,11 @@
+# XCode Files
+Products/*
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# OSX Files
+.DS_Store
+profile
